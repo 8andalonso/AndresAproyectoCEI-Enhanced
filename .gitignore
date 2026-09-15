@@ -1,0 +1,118 @@
+# ARCHIVOS Y CARPETAS A IGNORAR EN GIT
+# Este archivo le dice a Git qué archivos NO subir a GitHub
+
+# ============================================================================
+# PYTHON - Archivos generados automáticamente por Python
+# ============================================================================
+
+# Caché de bytes compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuciones (eggs, wheels)
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# ============================================================================
+# IDE - Archivos de editores de código
+# ============================================================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ============================================================================
+# SISTEMA OPERATIVO
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+.directory
+
+# ============================================================================
+# DATOS Y CONFIGURACIÓN LOCAL
+# ============================================================================
+
+# Archivos de configuración local (contraseñas, etc)
+config_local.php
+config.local.py
+.env
+.env.local
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# ============================================================================
+# DATOS SENSIBLES (SEGURIDAD)
+# ============================================================================
+
+# Claves y tokens
+*.key
+*.pem
+*.password
+
+# Archivos personales
+personal_*
+private_*
+secret_*
+
+# ============================================================================
+# SALIDAS Y CACHÉS
+# ============================================================================
+
+# Carpetas de salida (resultados de ejecuciones)
+resultados/
+output/
+temp/
+
+# Cache de pytest
+.pytest_cache/
+.coverage
+
+# Mypy cache
+.mypy_cache/
+
+# ============================================================================
+# ARCHIVOS GRANDES (opcionales - solo si ocupan mucho)
+# ============================================================================
+
+# Datos muy grandes (comentar si quieres subirlos)
+# *.csv
+# *.xlsx
+# *.zip
