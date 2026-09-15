@@ -1,0 +1,107 @@
+%PDF-1.4
+1 0 obj<</Type/Catalog/Pages 2 0 R>>endobj
+2 0 obj<</Type/Pages/Kids[3 0 R 10 0 R 17 0 R]/Count 3>>endobj
+3 0 obj<</Type/Page/Parent 2 0 R/MediaBox[0 0 612 792]/Contents 4 0 R/Resources<</Font<</F1 5 0 R/F2 6 0 R>>>>>>endobj
+4 0 obj<</Length 1200>>stream
+BT
+/F1 48 Tf 50 700 Td (PROYECTO CEI) Tj
+0 -60 Td /F2 16 Tf (Analisis Global de Muertes) Tj
+0 -25 Td (por Enfermedades 1990-2019) Tj
+0 -120 Td /F2 12 Tf (Autor: Andres Alonso) Tj
+0 -25 Td (Email: ahw.alonso@gmail.com) Tj
+0 -25 Td (Fecha: 15 de Septiembre de 2026) Tj
+0 -25 Td (Licencia: MIT) Tj
+0 -25 Td (Version: 2.0 Mejorada) Tj
+ET
+endstream
+endobj
+5 0 obj<</Type/Font/Subtype/Type1/BaseFont/Helvetica-Bold>>endobj
+6 0 obj<</Type/Font/Subtype/Type1/BaseFont/Helvetica>>endobj
+10 0 obj<</Type/Page/Parent 2 0 R/MediaBox[0 0 612 792]/Contents 11 0 R/Resources<</Font<</F1 5 0 R/F2 6 0 R>>>>>>endobj
+11 0 obj<</Length 3000>>stream
+BT
+/F1 24 Tf 50 750 Td (RESUMEN EJECUTIVO) Tj
+0 -40 Td /F2 11 Tf (Analisis profesional de mortalidad en 204 paises) Tj
+0 -20 Td (Dataset: 6,120 registros con 31 categorias de enfermedades) Tj
+0 -40 Td /F1 14 Tf (Caracteristicas Principales:) Tj
+0 -25 Td /F2 10 Tf (- Dataset: 6,120 registros de 204 paises) Tj
+0 -15 Td (- Periodo: 1990-2019 \(30 anos\)) Tj
+0 -15 Td (- Enfermedades: 31 categorias) Tj
+0 -15 Td (- Codigo: 1000+ lineas comentadas) Tj
+0 -15 Td (- Metodos de Analisis: 20+ implementados) Tj
+0 -40 Td /F1 14 Tf (Top 5 Enfermedades Mas Mortales:) Tj
+0 -25 Td /F2 9 Tf (1. Cardiovasculares: 447.7 millones \(40.1%\)) Tj
+0 -15 Td (2. Neoplasias: 229.7 millones \(20.6%\)) Tj
+0 -15 Td (3. Respiratorias Cronicas: 104.6 millones \(9.4%\)) Tj
+0 -15 Td (4. Infecciones: 83.8 millones \(7.5%\)) Tj
+0 -15 Td (5. Neonatales: 76.9 millones \(6.9%\)) Tj
+0 -40 Td /F1 14 Tf (Top 5 Paises por Mortalidad:) Tj
+0 -25 Td /F2 9 Tf (1. China: 265.4 millones \(23.8%\)) Tj
+0 -15 Td (2. India: 238.2 millones \(21.4%\)) Tj
+0 -15 Td (3. USA: 71.2 millones \(6.4%\)) Tj
+0 -15 Td (4. Rusia: 59.6 millones \(5.3%\)) Tj
+0 -15 Td (5. Indonesia: 44.0 millones \(3.9%\)) Tj
+0 -40 Td /F1 12 Tf (Datos Globales:) Tj
+0 -20 Td /F2 9 Tf (- Total de muertes en 30 anos: 1,114 mil millones) Tj
+0 -15 Td (- Promedio anual: 37 millones) Tj
+0 -15 Td (- Distribucion muy desigual entre paises) Tj
+ET
+endstream
+endobj
+17 0 obj<</Type/Page/Parent 2 0 R/MediaBox[0 0 612 792]/Contents 18 0 R/Resources<</Font<</F1 5 0 R/F2 6 0 R>>>>>>endobj
+18 0 obj<</Length 3500>>stream
+BT
+/F1 24 Tf 50 750 Td (HALLAZGOS PRINCIPALES) Tj
+0 -40 Td /F2 11 Tf (Hallazgo 1: Enfermedades Cardiovasculares Dominan) Tj
+0 -25 Td /F2 9 Tf (- Total: 447.7 millones de muertes \(40.1%\)) Tj
+0 -15 Td (- Tendencia: AL ALZA en ultimas decadas) Tj
+0 -15 Td (- Factores: Edad, tabaquismo, sedentarismo, estres) Tj
+0 -15 Td (- Conclusion: Campana global de prevencion urgente) Tj
+0 -40 Td /F2 11 Tf (Hallazgo 2: Malaria - Exito en Reduccion) Tj
+0 -25 Td /F2 9 Tf (- Total: ~50 millones de muertes) Tj
+0 -15 Td (- Tendencia: DISMINUYENDO -95,842 muertes/ano) Tj
+0 -15 Td (- Reduccion: 95% desde 1990) Tj
+0 -15 Td (- Razon: Intervenciones sanitarias efectivas) Tj
+0 -40 Td /F2 11 Tf (Hallazgo 3: Desigualdad Geografica Dramatica) Tj
+0 -25 Td /F2 9 Tf (- Top 3 paises: 66.4% de muertes globales) Tj
+0 -15 Td (- Top 10 paises: 84.6% de muertes globales) Tj
+0 -15 Td (- Gini Index: 0.68 \(desigualdad alta\)) Tj
+0 -15 Td (- Requiere enfoque regional diferenciado) Tj
+0 -40 Td /F2 11 Tf (Hallazgo 4: Correlaciones Importantes) Tj
+0 -25 Td /F2 9 Tf (- Respiratoria <-> Cardiovascular: r=0.85) Tj
+0 -15 Td (- Diabetes <-> Cardiovascular: r=0.81) Tj
+0 -15 Td (- Comparten factores de riesgo comunes) Tj
+0 -15 Td (- Intervenciones multidisciplinarias necesarias) Tj
+0 -40 Td /F2 11 Tf (Hallazgo 5: Desigualdad Extrema) Tj
+0 -25 Td /F2 9 Tf (- Indice Gini: 0.68) Tj
+0 -15 Td (- Lorenz Curve: Concentracion dramatica) Tj
+0 -15 Td (- Politicas deben diferenciar por capacidad) Tj
+ET
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000010 00000 n
+0000000079 00000 n
+0000000158 00000 n
+0000000293 00000 n
+0000001556 00000 n
+0000001641 00000 n
+0000000000 00000 f
+0000000000 00000 f
+0000000000 00000 f
+0000001727 00000 n
+0000001862 00000 n
+0000000000 00000 f
+0000000000 00000 f
+0000000000 00000 f
+0000000000 00000 f
+0000000000 00000 f
+0000005024 00000 n
+0000005159 00000 n
+trailer
+<</Size 19/Root 1 0 R>>
+startxref
+8753
+%%EOF
